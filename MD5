@@ -1,0 +1,16 @@
+60842b1fe18aabd63d908db985327e59 *DESCRIPTION
+485c25671fd1227c86cf8577c68a0d31 *NAMESPACE
+c131679b7b90250090446ca7e2a8b210 *NEWS
+a4db361e3f4757ed81d535883c36d7ca *R/palr.R
+7475070c0647f1e664acd54b76fc416c *build/vignette.rds
+12ef41fe272deb0494dd83a3b373f213 *inst/doc/palr.R
+af1ad7d477713a438ed5b24ad9971d2f *inst/doc/palr.Rmd
+043e5f6bf44721e343fb562f02f270c1 *inst/doc/palr.html
+5600396b61dcc6b1f42bda714dae41a0 *inst/extdata/create_oisst.R
+7c5935ce8553e2ec944c9339c072678d *inst/extdata/oisst.rda
+ecb04da86ac4dee69eb8f960f40b978f *man/chlPal.Rd
+fee35aca66e0589cba68e603e50912dd *man/col2hex.Rd
+d4b20c356ce27eb098672a01cb1bdacb *man/icePal.Rd
+3c5c09c3caac0bfb307b0dc3a159001c *man/palr.Rd
+d467741b2b85589a8586054386ebeab7 *man/sstPal.Rd
+af1ad7d477713a438ed5b24ad9971d2f *vignettes/palr.Rmd
