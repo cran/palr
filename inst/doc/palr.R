@@ -2,12 +2,11 @@
 ##knitr::opts_chunk$set(collapse = TRUE, comment = "")
 library(palr)
 library(raster)
-load(system.file("extdata", "oisst.rda", package = "palr"))
 
 ## ------------------------------------------------------------------------
 library(raster)
 library(palr)
-load(system.file("extdata", "oisst.rda", package = "palr"))
+data(oisst)
 plot(oisst)
 
 ## ------------------------------------------------------------------------
