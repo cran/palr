@@ -1,3 +1,10 @@
+# palr  0.3.0
+
+* New function `d_pal()` and alias `data_pal()` to colour data values (like {colourvalues} but
+ simpler). 
+ 
+* Removed ftp links thanks to CRAN. 
+
 # palr  0.2.0
 
 * Remove need for sp package by converting example data to a matrix. 
